@@ -1,3 +1,4 @@
 test line.
 We have test line in other file.
 Added new feature 2.
+Added nice feature.
