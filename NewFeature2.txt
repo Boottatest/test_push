@@ -3,3 +3,4 @@ Added something to new feature 2.
 Again added to new feature 2.
 Third time adding something new to new feature 2.
 Fixed small bug in new feature 2.
+Finsihed work on new feature 2.
